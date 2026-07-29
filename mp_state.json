@@ -1,20 +1,96 @@
 {
-  "SPIDER-MAN: BRAND NEW DAY": {
+  "HOKUM": {
     "Mercoledì": [
-      "18:15"
+      "21:10"
+    ]
+  },
+  "SPIDER-MAN: BRAND NEW DAY": {
+    "Giovedì": [
+      "17:30"
+    ],
+    "Venerdì": [
+      "16:30"
+    ],
+    "Sabato": [
+      "14:20"
+    ],
+    "Domenica": [
+      "15:15"
+    ],
+    "Lunedì": [
+      "17:30"
+    ],
+    "Martedì": [
+      "17:30"
+    ],
+    "Mercoledì": [
+      "17:30"
+    ]
+  },
+  "SPIDER-MAN: BRAND NEW DAY | ORIGINAL VERSION": {
+    "Lunedì": [
+      "20:45"
     ]
   },
   "DEEP WATER - INCUBO DAGLI ABISSI": {
-    "Mercoledì": [
-      "18:30"
+    "Giovedì": [
+      "21:10"
+    ],
+    "Venerdì": [
+      "22:20"
+    ],
+    "Sabato": [
+      "22:20"
+    ],
+    "Domenica": [
+      "20:15"
+    ],
+    "Martedì": [
+      "21:10"
     ]
   },
   "ODISSEA [2026]": {
+    "Giovedì": [
+      "17:30"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "14:30"
+    ],
+    "Domenica": [
+      "14:30"
+    ],
+    "Lunedì": [
+      "17:30"
+    ],
+    "Martedì": [
+      "17:30"
+    ],
     "Mercoledì": [
       "17:30"
     ]
   },
   "MINIONS & MONSTERS": {
+    "Giovedì": [
+      "18:30"
+    ],
+    "Venerdì": [
+      "17:20"
+    ],
+    "Sabato": [
+      "14:45"
+    ],
+    "Domenica": [
+      "15:00"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "18:30"
+    ],
     "Mercoledì": [
       "18:30"
     ]
