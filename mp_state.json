@@ -1,32 +1,157 @@
 {
-  "INSIDIOUS - FUORI DALL'ALTROVE": {
+  "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE": {
     "Mercoledì": [
-      "21:15"
+      "21:00"
+    ]
+  },
+  "LA VENDETTA PERFETTA - BEAR COUNTRY": {
+    "Mercoledì": [
+      "21:10"
+    ]
+  },
+  "THE DOG STARS - LE STELLE DOPO LA FINE": {
+    "Mercoledì": [
+      "21:20"
+    ]
+  },
+  "INSIDIOUS - FUORI DALL'ALTROVE": {
+    "Giovedì": [
+      "21:20"
+    ],
+    "Venerdì": [
+      "19:45"
+    ],
+    "Sabato": [
+      "17:20"
+    ],
+    "Domenica": [
+      "14:20"
+    ],
+    "Lunedì": [
+      "21:20"
+    ],
+    "Martedì": [
+      "21:20"
+    ],
+    "Mercoledì": [
+      "19:00"
+    ]
+  },
+  "MOANA [2026] | ORIGINAL VERSION": {
+    "Lunedì": [
+      "20:45"
     ]
   },
   "OCEANIA [2026]": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "14:20"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
     "Mercoledì": [
       "18:20"
     ]
   },
   "ROBIN HOOD - IL PREZZO DEL SANGUE": {
-    "Mercoledì": [
-      "18:10"
+    "Giovedì": [
+      "18:40"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "14:45"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:40"
+    ],
+    "Martedì": [
+      "18:40"
     ]
   },
   "LA FINE DI OAK STREET": {
+    "Giovedì": [
+      "21:20"
+    ],
+    "Venerdì": [
+      "21:30"
+    ],
+    "Sabato": [
+      "21:30"
+    ],
+    "Domenica": [
+      "20:30"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "21:20"
+    ],
     "Mercoledì": [
       "18:30"
     ]
   },
   "SPIDER-MAN: BRAND NEW DAY": {
+    "Giovedì": [
+      "17:30"
+    ],
+    "Venerdì": [
+      "16:30"
+    ],
+    "Sabato": [
+      "15:00"
+    ],
+    "Domenica": [
+      "15:15"
+    ],
+    "Lunedì": [
+      "17:30"
+    ],
+    "Martedì": [
+      "17:30"
+    ],
     "Mercoledì": [
       "17:30"
     ]
   },
   "ODISSEA [2026]": {
-    "Mercoledì": [
+    "Giovedì": [
+      "17:15"
+    ],
+    "Venerdì": [
       "17:30"
+    ],
+    "Sabato": [
+      "14:30"
+    ],
+    "Domenica": [
+      "14:20"
+    ],
+    "Lunedì": [
+      "17:15"
+    ],
+    "Martedì": [
+      "17:15"
+    ],
+    "Mercoledì": [
+      "17:15"
     ]
   }
 }
