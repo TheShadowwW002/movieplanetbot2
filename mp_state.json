@@ -18,8 +18,12 @@
     "Venerdì": [
       "19:45"
     ],
-    "Sabato": [],
-    "Domenica": [],
+    "Sabato": [
+      "17:20"
+    ],
+    "Domenica": [
+      "14:20"
+    ],
     "Lunedì": [
       "21:20"
     ],
@@ -76,8 +80,12 @@
     "Venerdì": [
       "21:30"
     ],
-    "Sabato": [],
-    "Domenica": [],
+    "Sabato": [
+      "21:30"
+    ],
+    "Domenica": [
+      "20:30"
+    ],
     "Lunedì": [
       "18:30"
     ],
@@ -92,8 +100,12 @@
     "Venerdì": [
       "16:30"
     ],
-    "Sabato": [],
-    "Domenica": [],
+    "Sabato": [
+      "15:00"
+    ],
+    "Domenica": [
+      "15:15"
+    ],
     "Lunedì": [
       "17:30"
     ],
