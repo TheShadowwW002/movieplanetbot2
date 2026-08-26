@@ -1,40 +1,165 @@
 {
-  "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE": {
+  "COYOTE VS. ACME": {
     "Mercoledì": [
-      "21:00"
+      "21:15"
+    ]
+  },
+  "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE": {
+    "Giovedì": [
+      "18:15"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "17:10"
+    ],
+    "Domenica": [
+      "17:40"
+    ],
+    "Lunedì": [
+      "18:15"
+    ],
+    "Martedì": [
+      "18:15"
+    ],
+    "Mercoledì": [
+      "18:15"
     ]
   },
   "LA VENDETTA PERFETTA - BEAR COUNTRY": {
-    "Mercoledì": [
-      "21:10"
-    ]
-  },
-  "THE DOG STARS - LE STELLE DOPO LA FINE": {
+    "Giovedì": [
+      "21:20"
+    ],
+    "Venerdì": [
+      "22:20"
+    ],
+    "Sabato": [
+      "14:30"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "21:20"
+    ],
+    "Martedì": [
+      "21:20"
+    ],
     "Mercoledì": [
       "21:20"
     ]
   },
-  "INSIDIOUS - FUORI DALL'ALTROVE": {
-    "Mercoledì": [
-      "19:00"
-    ]
-  },
-  "OCEANIA [2026]": {
-    "Mercoledì": [
-      "18:20"
-    ]
-  },
-  "LA FINE DI OAK STREET": {
+  "THE DOG STARS - LE STELLE DOPO LA FINE": {
+    "Giovedì": [
+      "18:30"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "14:20"
+    ],
+    "Domenica": [
+      "14:50"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "18:30"
+    ],
     "Mercoledì": [
       "18:30"
     ]
   },
-  "SPIDER-MAN: BRAND NEW DAY": {
+  "THE DOG STARS | ORIGINAL VERSION": {
+    "Lunedì": [
+      "21:00"
+    ]
+  },
+  "INSIDIOUS - FUORI DALL'ALTROVE": {
+    "Giovedì": [
+      "21:20"
+    ],
+    "Venerdì": [
+      "22:20"
+    ],
+    "Sabato": [
+      "22:00"
+    ],
+    "Domenica": [
+      "20:30"
+    ],
+    "Martedì": [
+      "21:20"
+    ]
+  },
+  "OCEANIA [2026]": {
+    "Giovedì": [
+      "17:45"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "14:20"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "17:45"
+    ],
+    "Martedì": [
+      "17:45"
+    ],
     "Mercoledì": [
-      "17:30"
+      "17:45"
+    ]
+  },
+  "SPIDER-MAN: BRAND NEW DAY": {
+    "Giovedì": [
+      "18:10"
+    ],
+    "Venerdì": [
+      "16:45"
+    ],
+    "Sabato": [
+      "15:30"
+    ],
+    "Domenica": [
+      "14:30"
+    ],
+    "Lunedì": [
+      "18:10"
+    ],
+    "Martedì": [
+      "18:10"
+    ],
+    "Mercoledì": [
+      "18:10"
     ]
   },
   "ODISSEA [2026]": {
+    "Giovedì": [
+      "17:15"
+    ],
+    "Venerdì": [
+      "17:30"
+    ],
+    "Sabato": [
+      "14:30"
+    ],
+    "Domenica": [
+      "14:20"
+    ],
+    "Lunedì": [
+      "17:15"
+    ],
+    "Martedì": [
+      "17:15"
+    ],
     "Mercoledì": [
       "17:15"
     ]
