@@ -1,42 +1,195 @@
 {
-  "FAMMI IL PIACERE": {
+  "THE INVITE - IL PIACERE È TUTTO NOSTRO": {
+    "Mercoledì": [
+      "21:10"
+    ]
+  },
+  "BATMAN [1989] - RIED. 2026": {
+    "Martedì": [
+      "21:10"
+    ],
+    "Mercoledì": [
+      "21:00"
+    ]
+  },
+  "AMORI E INCANTESIMI 2": {
+    "Giovedì": [
+      "18:15"
+    ],
+    "Venerdì": [
+      "16:30"
+    ],
+    "Sabato": [
+      "16:30"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "18:15"
+    ],
+    "Martedì": [
+      "18:15"
+    ],
     "Mercoledì": [
       "18:15"
     ]
   },
-  "IL MALLOPPO": {
+  "MUTINY": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "17:15"
+    ],
+    "Sabato": [
+      "14:50"
+    ],
+    "Domenica": [
+      "17:20"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
+    "Mercoledì": [
+      "18:20"
+    ]
+  },
+  "OASIS: DON'T LOOK BACK IN ANGER | ORIGINAL VERSION": {
+    "Giovedì": [
+      "21:00"
+    ],
+    "Venerdì": [
+      "21:30"
+    ],
+    "Sabato": [
+      "19:30"
+    ],
+    "Domenica": [
+      "14:40"
+    ]
+  },
+  "PRACTICAL MAGIC 2 | ORIGINAL VERSION": {
+    "Lunedì": [
+      "21:10"
+    ]
+  },
+  "PAW PATROL: MISSIONE DINOSAURI": {
+    "Giovedì": [
+      "18:30"
+    ],
+    "Venerdì": [
+      "17:10"
+    ],
+    "Sabato": [
+      "15:10"
+    ],
+    "Domenica": [
+      "15:00"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "18:30"
+    ],
     "Mercoledì": [
       "18:30"
     ]
   },
   "COYOTE VS. ACME": {
+    "Giovedì": [
+      "18:30"
+    ],
+    "Venerdì": [
+      "17:10"
+    ],
+    "Sabato": [
+      "14:45"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "18:30"
+    ],
     "Mercoledì": [
       "18:30"
     ]
   },
-  "SUNNY DANCER": {
-    "Mercoledì": [
-      "21:15"
-    ]
-  },
-  "THE DOG STARS - LE STELLE DOPO LA FINE": {
-    "Mercoledì": [
-      "21:00"
-    ]
-  },
   "OCEANIA [2026]": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "14:20"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
     "Mercoledì": [
       "18:20"
     ]
   },
   "SPIDER-MAN: BRAND NEW DAY": {
+    "Giovedì": [
+      "18:00"
+    ],
+    "Venerdì": [
+      "18:30"
+    ],
+    "Sabato": [
+      "15:15"
+    ],
+    "Domenica": [
+      "14:20"
+    ],
+    "Lunedì": [
+      "18:00"
+    ],
+    "Martedì": [
+      "18:00"
+    ],
     "Mercoledì": [
-      "18:10"
+      "18:00"
     ]
   },
   "ODISSEA [2026]": {
+    "Giovedì": [
+      "17:20"
+    ],
+    "Venerdì": [
+      "18:00"
+    ],
+    "Sabato": [
+      "14:30"
+    ],
+    "Domenica": [
+      "16:30"
+    ],
+    "Lunedì": [
+      "17:20"
+    ],
+    "Martedì": [
+      "17:20"
+    ],
     "Mercoledì": [
-      "17:15"
+      "17:20"
     ]
   }
 }
