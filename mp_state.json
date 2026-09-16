@@ -1,47 +1,230 @@
 {
-  "THE INVITE - IL PIACERE È TUTTO NOSTRO": {
-    "Mercoledì": [
-      "21:10"
-    ]
-  },
-  "BATMAN [1989] - RIED. 2026": {
+  "ULTIMO - TUTTO. LIVE A TOR VERGATA": {
+    "Martedì": [
+      "20:00"
+    ],
     "Mercoledì": [
       "21:00"
     ]
   },
-  "AMORI E INCANTESIMI 2": {
+  "CARS: MOTORI RUGGENTI - 20 ANNI": {
+    "Giovedì": [
+      "18:15"
+    ],
+    "Venerdì": [
+      "17:10"
+    ],
+    "Sabato": [
+      "14:40"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "18:15"
+    ],
+    "Martedì": [
+      "18:15"
+    ],
     "Mercoledì": [
       "18:15"
     ]
   },
-  "MUTINY": {
+  "DOV'È LA FIESTA?": {
+    "Giovedì": [
+      "21:00"
+    ],
+    "Venerdì": [
+      "19:45"
+    ],
+    "Sabato": [
+      "19:45"
+    ],
+    "Domenica": [
+      "17:15"
+    ],
+    "Lunedì": [
+      "21:00"
+    ],
+    "Martedì": [
+      "21:00"
+    ],
+    "Mercoledì": [
+      "21:00"
+    ]
+  },
+  "RESIDENT EVIL [2026] - V.M.14": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "17:15"
+    ],
+    "Sabato": [
+      "14:50"
+    ],
+    "Domenica": [
+      "15:00"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
     "Mercoledì": [
       "18:20"
     ]
   },
-  "PAW PATROL: MISSIONE DINOSAURI": {
+  "TALKING TOM HEROES - SUPER AMICI AL CINEMA": {
+    "Sabato": [
+      "15:10"
+    ],
+    "Domenica": [
+      "15:10"
+    ]
+  },
+  "THE INVITE - IL PIACERE È TUTTO NOSTRO": {
+    "Giovedì": [
+      "18:30"
+    ],
+    "Venerdì": [
+      "17:10"
+    ],
+    "Sabato": [
+      "14:40"
+    ],
+    "Domenica": [
+      "14:50"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "21:00"
+    ],
     "Mercoledì": [
       "18:30"
     ]
   },
+  "THE INVITE | ORIGINAL VERSION": {
+    "Lunedì": [
+      "21:10"
+    ]
+  },
+  "AMORI E INCANTESIMI 2": {
+    "Giovedì": [
+      "21:10"
+    ],
+    "Venerdì": [
+      "22:10"
+    ],
+    "Sabato": [
+      "22:10"
+    ],
+    "Domenica": [
+      "20:00"
+    ],
+    "Lunedì": [
+      "21:10"
+    ],
+    "Martedì": [
+      "21:10"
+    ],
+    "Mercoledì": [
+      "21:10"
+    ]
+  },
+  "PAW PATROL: MISSIONE DINOSAURI": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "17:10"
+    ],
+    "Sabato": [
+      "14:45"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
+    "Mercoledì": [
+      "18:20"
+    ]
+  },
   "COYOTE VS. ACME": {
+    "Giovedì": [
+      "18:30"
+    ],
+    "Venerdì": [
+      "17:10"
+    ],
+    "Sabato": [
+      "14:45"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "18:30"
+    ],
     "Mercoledì": [
       "18:30"
     ]
   },
   "OCEANIA [2026]": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "14:20"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
     "Mercoledì": [
       "18:20"
     ]
   },
-  "SPIDER-MAN: BRAND NEW DAY": {
-    "Mercoledì": [
-      "18:00"
-    ]
-  },
   "ODISSEA [2026]": {
+    "Giovedì": [
+      "20:30"
+    ],
+    "Venerdì": [
+      "21:30"
+    ],
+    "Sabato": [
+      "21:30"
+    ],
+    "Domenica": [
+      "19:30"
+    ],
+    "Lunedì": [
+      "20:30"
+    ],
+    "Martedì": [
+      "20:30"
+    ],
     "Mercoledì": [
-      "17:20"
+      "20:30"
     ]
   }
 }
