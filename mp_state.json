@@ -1,52 +1,210 @@
 {
-  "ULTIMO - TUTTO. LIVE A TOR VERGATA": {
+  "NAZA": {
+    "Martedì": [
+      "21:15"
+    ],
     "Mercoledì": [
-      "21:00"
+      "21:15"
+    ]
+  },
+  "AVENGERS: ENDGAME EXTRA": {
+    "Giovedì": [
+      "17:20"
+    ],
+    "Venerdì": [
+      "17:20"
+    ],
+    "Sabato": [
+      "14:25"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "17:20"
+    ],
+    "Martedì": [
+      "17:20"
+    ],
+    "Mercoledì": [
+      "17:20"
+    ]
+  },
+  "AVENGERS: ENDGAME EXTRA | ORIGINAL VERSION": {
+    "Lunedì": [
+      "21:15"
+    ]
+  },
+  "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "17:10"
+    ],
+    "Sabato": [
+      "14:45"
+    ],
+    "Domenica": [
+      "15:00"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
+    "Mercoledì": [
+      "18:20"
+    ]
+  },
+  "L'ISOLA DEI RICORDI [2026]": {
+    "Giovedì": [
+      "18:00"
+    ],
+    "Venerdì": [
+      "17:10"
+    ],
+    "Sabato": [
+      "14:45"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:00"
+    ],
+    "Martedì": [
+      "18:00"
+    ],
+    "Mercoledì": [
+      "18:00"
+    ]
+  },
+  "ULTIMO - TUTTO. LIVE A TOR VERGATA": {
+    "Giovedì": [
+      "20:30"
+    ],
+    "Venerdì": [
+      "21:30"
+    ],
+    "Sabato": [
+      "21:30"
+    ],
+    "Domenica": [
+      "20:00"
+    ],
+    "Lunedì": [
+      "20:30"
+    ],
+    "Martedì": [
+      "20:30"
+    ],
+    "Mercoledì": [
+      "20:30"
     ]
   },
   "CARS: MOTORI RUGGENTI - 20 ANNI": {
+    "Giovedì": [
+      "18:00"
+    ],
+    "Venerdì": [
+      "18:00"
+    ],
+    "Sabato": [
+      "18:00"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
     "Mercoledì": [
-      "18:15"
-    ]
-  },
-  "DOV'È LA FIESTA?": {
-    "Mercoledì": [
-      "21:00"
+      "18:20"
     ]
   },
   "RESIDENT EVIL [2026] - V.M.14": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "17:15"
+    ],
+    "Sabato": [
+      "14:50"
+    ],
+    "Domenica": [
+      "15:00"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
     "Mercoledì": [
       "18:20"
     ]
   },
   "THE INVITE - IL PIACERE È TUTTO NOSTRO": {
-    "Mercoledì": [
-      "18:30"
-    ]
-  },
-  "AMORI E INCANTESIMI 2": {
-    "Mercoledì": [
-      "21:10"
+    "Venerdì": [
+      "22:15"
+    ],
+    "Sabato": [
+      "22:15"
+    ],
+    "Domenica": [
+      "20:20"
     ]
   },
   "PAW PATROL: MISSIONE DINOSAURI": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "17:10"
+    ],
+    "Sabato": [
+      "14:45"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
     "Mercoledì": [
       "18:20"
     ]
   },
   "COYOTE VS. ACME": {
+    "Giovedì": [
+      "18:30"
+    ],
+    "Venerdì": [
+      "17:10"
+    ],
+    "Sabato": [
+      "14:45"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "18:30"
+    ],
     "Mercoledì": [
       "18:30"
-    ]
-  },
-  "OCEANIA [2026]": {
-    "Mercoledì": [
-      "18:20"
-    ]
-  },
-  "ODISSEA [2026]": {
-    "Mercoledì": [
-      "20:30"
     ]
   }
 }
