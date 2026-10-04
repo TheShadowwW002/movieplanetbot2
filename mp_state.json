@@ -1,8 +1,5 @@
 {
   "BEAST [2026]": {
-    "Domenica": [
-      "17:30"
-    ],
     "Lunedì": [
       "18:30"
     ],
@@ -14,9 +11,6 @@
     ]
   },
   "DIGGER [2026]": {
-    "Domenica": [
-      "14:30"
-    ],
     "Lunedì": [
       "18:15"
     ],
@@ -33,9 +27,6 @@
     ]
   },
   "ONSLAUGHT - ASSALTO FINALE": {
-    "Domenica": [
-      "20:20"
-    ],
     "Lunedì": [
       "21:15"
     ],
@@ -47,9 +38,6 @@
     ]
   },
   "QUASI VERA": {
-    "Domenica": [
-      "14:45"
-    ],
     "Lunedì": [
       "19:00"
     ],
@@ -61,9 +49,6 @@
     ]
   },
   "VERITY": {
-    "Domenica": [
-      "14:45"
-    ],
     "Lunedì": [
       "18:30"
     ],
@@ -85,15 +70,7 @@
       "21:00"
     ]
   },
-  "AVENGERS: ENDGAME EXTRA": {
-    "Domenica": [
-      "17:30"
-    ]
-  },
   "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO": {
-    "Domenica": [
-      "17:20"
-    ],
     "Lunedì": [
       "18:20"
     ],
@@ -105,9 +82,6 @@
     ]
   },
   "L'ISOLA DEI RICORDI [2026]": {
-    "Domenica": [
-      "15:00"
-    ],
     "Lunedì": [
       "18:05"
     ],
@@ -119,9 +93,6 @@
     ]
   },
   "RESIDENT EVIL [2026] - V.M.14": {
-    "Domenica": [
-      "15:00"
-    ],
     "Lunedì": [
       "18:20"
     ],
@@ -130,16 +101,6 @@
     ],
     "Mercoledì": [
       "18:20"
-    ]
-  },
-  "PAW PATROL: MISSIONE DINOSAURI": {
-    "Domenica": [
-      "15:00"
-    ]
-  },
-  "COYOTE VS. ACME": {
-    "Domenica": [
-      "15:10"
     ]
   }
 }
