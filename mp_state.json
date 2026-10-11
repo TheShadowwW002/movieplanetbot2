@@ -11,9 +11,6 @@
     ]
   },
   "L'ALBERO DI MOLTO LONTANO": {
-    "Domenica": [
-      "14:30"
-    ],
     "Lunedì": [
       "18:15"
     ],
@@ -25,9 +22,6 @@
     ]
   },
   "L'ESTRANEA": {
-    "Domenica": [
-      "14:30"
-    ],
     "Lunedì": [
       "18:15"
     ],
@@ -39,9 +33,6 @@
     ]
   },
   "MAMMINA": {
-    "Domenica": [
-      "17:10"
-    ],
     "Lunedì": [
       "18:30"
     ],
@@ -53,9 +44,6 @@
     ]
   },
   "THE SOCIAL - IL PREZZO DELLA VERITÀ": {
-    "Domenica": [
-      "17:30"
-    ],
     "Lunedì": [
       "18:30"
     ],
@@ -67,9 +55,6 @@
     ]
   },
   "DIGGER [2026]": {
-    "Domenica": [
-      "20:00"
-    ],
     "Lunedì": [
       "21:10"
     ],
@@ -81,9 +66,6 @@
     ]
   },
   "VERITY": {
-    "Domenica": [
-      "14:45"
-    ],
     "Lunedì": [
       "18:30"
     ],
@@ -95,9 +77,6 @@
     ]
   },
   "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO": {
-    "Domenica": [
-      "15:00"
-    ],
     "Lunedì": [
       "18:20"
     ],
@@ -114,9 +93,6 @@
     ]
   },
   "RESIDENT EVIL [2026] - V.M.14": {
-    "Domenica": [
-      "15:00"
-    ],
     "Lunedì": [
       "18:20"
     ],
@@ -125,11 +101,6 @@
     ],
     "Mercoledì": [
       "18:20"
-    ]
-  },
-  "PAW PATROL: MISSIONE DINOSAURI": {
-    "Domenica": [
-      "15:00"
     ]
   }
 }
