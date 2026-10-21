@@ -1,52 +1,240 @@
 {
+  "IT ENDS": {
+    "Mercoledì": [
+      "21:10"
+    ]
+  },
+  "SHAUN, VITA DA PECORA: OPERAZIONE Z.U.C.C.A.": {
+    "Mercoledì": [
+      "18:30"
+    ]
+  },
+  "MATRIX [1999] - RIEDIZIONE | 4K": {
+    "Lunedì": [
+      "21:00"
+    ],
+    "Martedì": [
+      "21:00"
+    ]
+  },
   "CLAYFACE - V.M.14": {
+    "Giovedì": [
+      "18:15"
+    ],
+    "Venerdì": [
+      "17:15"
+    ],
+    "Sabato": [
+      "14:40"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:15"
+    ],
+    "Martedì": [
+      "18:15"
+    ],
     "Mercoledì": [
-      "21:00"
+      "18:15"
     ]
   },
-  "SE AMI QUALCUNO DILLO": {
-    "Mercoledì": [
-      "19:00"
+  "CLAYFACE | FILM IN INGLESE - V.M.14": {
+    "Lunedì": [
+      "21:15"
     ]
   },
-  "CARLO ACUTIS. IL GIOVANE SANTO": {
+  "KLARA E IL SOLE": {
+    "Giovedì": [
+      "18:30"
+    ],
+    "Venerdì": [
+      "17:10"
+    ],
+    "Sabato": [
+      "17:10"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "18:30"
+    ],
     "Mercoledì": [
-      "21:00"
+      "18:30"
+    ]
+  },
+  "L'ASSURDA STORIA DELLA GIALAPPÀS BAND": {
+    "Giovedì": [
+      "18:30"
+    ],
+    "Venerdì": [
+      "17:10"
+    ],
+    "Sabato": [
+      "14:40"
+    ],
+    "Domenica": [
+      "15:00"
+    ],
+    "Lunedì": [
+      "21:20"
+    ],
+    "Martedì": [
+      "21:20"
+    ],
+    "Mercoledì": [
+      "21:20"
+    ]
+  },
+  "TADDEO L'ESPLORATORE E LA LAMPADA MAGICA": {
+    "Giovedì": [
+      "18:30"
+    ],
+    "Venerdì": [
+      "17:20"
+    ],
+    "Sabato": [
+      "15:00"
+    ],
+    "Domenica": [
+      "15:00"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "18:30"
+    ],
+    "Mercoledì": [
+      "18:30"
+    ]
+  },
+  "WILDWOOD: I SEGRETI DEL BOSCO PROIBITO": {
+    "Giovedì": [
+      "18:15"
+    ],
+    "Venerdì": [
+      "17:30"
+    ],
+    "Sabato": [
+      "14:30"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "18:15"
+    ],
+    "Martedì": [
+      "18:15"
+    ],
+    "Mercoledì": [
+      "18:15"
     ]
   },
   "PRIMETIME": {
-    "Mercoledì": [
+    "Giovedì": [
+      "18:40"
+    ],
+    "Venerdì": [
+      "19:30"
+    ],
+    "Sabato": [
+      "14:30"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
       "18:30"
     ]
   },
   "STREET FIGHTER": {
-    "Mercoledì": [
-      "18:15"
+    "Giovedì": [
+      "21:15"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "17:00"
+    ],
+    "Domenica": [
+      "14:50"
+    ],
+    "Lunedì": [
+      "21:15"
+    ],
+    "Martedì": [
+      "21:15"
     ]
   },
   "WHALEFALL - NELLA BALENA": {
-    "Mercoledì": [
+    "Giovedì": [
+      "21:15"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "17:00"
+    ],
+    "Domenica": [
+      "17:15"
+    ],
+    "Martedì": [
       "18:30"
     ]
   },
   "L'ESTRANEA": {
-    "Mercoledì": [
-      "18:15"
-    ]
-  },
-  "MAMMINA - V.M.14": {
-    "Mercoledì": [
-      "21:30"
-    ]
-  },
-  "VERITY": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "22:10"
+    ],
+    "Sabato": [
+      "14:40"
+    ],
+    "Domenica": [
+      "17:15"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
     "Mercoledì": [
       "18:20"
     ]
   },
-  "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO": {
+  "MAMMINA - V.M.14": {
+    "Giovedì": [
+      "21:30"
+    ],
+    "Venerdì": [
+      "19:50"
+    ],
+    "Sabato": [
+      "19:50"
+    ],
+    "Domenica": [
+      "17:35"
+    ],
+    "Lunedì": [
+      "21:30"
+    ],
+    "Martedì": [
+      "21:30"
+    ],
     "Mercoledì": [
-      "21:10"
+      "21:30"
     ]
   }
 }
