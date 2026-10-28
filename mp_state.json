@@ -1,47 +1,248 @@
 {
-  "IT ENDS": {
+  "DIO RIDE": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "16:55"
+    ],
+    "Sabato": [
+      "14:25"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
     "Mercoledì": [
-      "21:10"
+      "18:20"
+    ]
+  },
+  "FAST&FURIOUS - 25esimo ANNIVERSARIO": {
+    "Giovedì": [
+      "21:15"
+    ],
+    "Venerdì": [
+      "22:10"
+    ],
+    "Sabato": [
+      "22:10"
+    ],
+    "Domenica": [
+      "20:15"
+    ],
+    "Lunedì": [
+      "21:15"
+    ],
+    "Martedì": [
+      "21:15"
+    ],
+    "Mercoledì": [
+      "21:15"
+    ]
+  },
+  "ICE CREAM MAN - V.M.18": {
+    "Giovedì": [
+      "21:25"
+    ],
+    "Venerdì": [
+      "20:00"
+    ],
+    "Sabato": [
+      "20:00"
+    ],
+    "Domenica": [
+      "20:20"
+    ],
+    "Lunedì": [
+      "21:25"
+    ],
+    "Martedì": [
+      "21:25"
+    ],
+    "Mercoledì": [
+      "21:25"
+    ]
+  },
+  "UN TRANQUILLO FUNERALE DI FAMIGLIA": {
+    "Giovedì": [
+      "18:25"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "14:45"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:25"
+    ],
+    "Martedì": [
+      "18:25"
+    ],
+    "Mercoledì": [
+      "18:25"
+    ]
+  },
+  "IT ENDS": {
+    "Giovedì": [
+      "21:15"
+    ],
+    "Venerdì": [
+      "22:15"
+    ],
+    "Sabato": [
+      "19:45"
+    ],
+    "Domenica": [
+      "15:15"
+    ],
+    "Lunedì": [
+      "21:15"
+    ],
+    "Martedì": [
+      "21:15"
+    ],
+    "Mercoledì": [
+      "21:15"
     ]
   },
   "SHAUN, VITA DA PECORA: OPERAZIONE Z.U.C.C.A.": {
+    "Giovedì": [
+      "18:30"
+    ],
+    "Venerdì": [
+      "17:30"
+    ],
+    "Sabato": [
+      "14:50"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "18:30"
+    ],
     "Mercoledì": [
       "18:30"
     ]
   },
   "CLAYFACE - V.M.14": {
+    "Giovedì": [
+      "18:15"
+    ],
+    "Venerdì": [
+      "19:40"
+    ],
+    "Sabato": [
+      "17:15"
+    ],
+    "Domenica": [
+      "17:30"
+    ],
+    "Lunedì": [
+      "18:15"
+    ],
+    "Martedì": [
+      "18:15"
+    ],
     "Mercoledì": [
       "18:15"
     ]
   },
-  "KLARA E IL SOLE": {
-    "Mercoledì": [
-      "18:30"
-    ]
-  },
-  "L'ASSURDA STORIA DELLA GIALAPPÀS BAND": {
-    "Mercoledì": [
-      "21:20"
-    ]
-  },
   "TADDEO L'ESPLORATORE E LA LAMPADA MAGICA": {
+    "Giovedì": [
+      "18:30"
+    ],
+    "Venerdì": [
+      "17:10"
+    ],
+    "Sabato": [
+      "14:40"
+    ],
+    "Domenica": [
+      "15:00"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "18:30"
+    ],
     "Mercoledì": [
       "18:30"
     ]
   },
   "WILDWOOD: I SEGRETI DEL BOSCO PROIBITO": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "16:40"
+    ],
+    "Sabato": [
+      "16:40"
+    ],
+    "Domenica": [
+      "14:30"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
     "Mercoledì": [
-      "18:15"
+      "18:20"
+    ]
+  },
+  "WILDWOOD: I SEGRETI DEL BOSCO PROIBITO | FILM IN INGLESE": {
+    "Lunedì": [
+      "21:10"
     ]
   },
   "L'ESTRANEA": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "14:45"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
     "Mercoledì": [
       "18:20"
     ]
   },
   "MAMMINA - V.M.14": {
-    "Mercoledì": [
-      "21:30"
+    "Venerdì": [
+      "17:30"
+    ],
+    "Sabato": [
+      "17:30"
+    ],
+    "Domenica": [
+      "17:20"
     ]
   }
 }
