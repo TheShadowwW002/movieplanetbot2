@@ -1,8 +1,5 @@
 {
   "DIO RIDE": {
-    "Domenica": [
-      "14:45"
-    ],
     "Lunedì": [
       "18:20"
     ],
@@ -14,9 +11,6 @@
     ]
   },
   "FAST&FURIOUS - 25esimo ANNIVERSARIO": {
-    "Domenica": [
-      "20:15"
-    ],
     "Lunedì": [
       "21:15"
     ],
@@ -28,9 +22,6 @@
     ]
   },
   "ICE CREAM MAN - V.M.18": {
-    "Domenica": [
-      "20:20"
-    ],
     "Lunedì": [
       "21:25"
     ],
@@ -42,9 +33,6 @@
     ]
   },
   "UN TRANQUILLO FUNERALE DI FAMIGLIA": {
-    "Domenica": [
-      "14:45"
-    ],
     "Lunedì": [
       "18:25"
     ],
@@ -56,9 +44,6 @@
     ]
   },
   "IT ENDS": {
-    "Domenica": [
-      "15:15"
-    ],
     "Lunedì": [
       "21:15"
     ],
@@ -70,9 +55,6 @@
     ]
   },
   "SHAUN, VITA DA PECORA: OPERAZIONE Z.U.C.C.A.": {
-    "Domenica": [
-      "14:40"
-    ],
     "Lunedì": [
       "18:30"
     ],
@@ -84,9 +66,6 @@
     ]
   },
   "CLAYFACE - V.M.14": {
-    "Domenica": [
-      "17:30"
-    ],
     "Lunedì": [
       "18:15"
     ],
@@ -98,9 +77,6 @@
     ]
   },
   "TADDEO L'ESPLORATORE E LA LAMPADA MAGICA": {
-    "Domenica": [
-      "15:00"
-    ],
     "Lunedì": [
       "18:30"
     ],
@@ -112,9 +88,6 @@
     ]
   },
   "WILDWOOD: I SEGRETI DEL BOSCO PROIBITO": {
-    "Domenica": [
-      "14:30"
-    ],
     "Lunedì": [
       "18:20"
     ],
@@ -131,9 +104,6 @@
     ]
   },
   "L'ESTRANEA": {
-    "Domenica": [
-      "14:40"
-    ],
     "Lunedì": [
       "18:20"
     ],
@@ -142,11 +112,6 @@
     ],
     "Mercoledì": [
       "18:20"
-    ]
-  },
-  "MAMMINA - V.M.14": {
-    "Domenica": [
-      "17:20"
     ]
   }
 }
