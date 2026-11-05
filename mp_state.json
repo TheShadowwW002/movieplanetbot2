@@ -1,52 +1,212 @@
 {
+  "STRAY KIDS WORLD TOUR \"RUN IT\" | FILM IN COREANO": {
+    "Sabato": [
+      "17:15"
+    ]
+  },
+  "STRAY KIDS WORLD TOUR \"RUN IT\": IL LIVE VIEWING | FILM IN COREANO": {
+    "Sabato": [
+      "13:00"
+    ]
+  },
+  "GEORGE MICHAEL - THE FAITH TOUR": {
+    "Venerdì": [
+      "22:15"
+    ],
+    "Sabato": [
+      "22:15"
+    ],
+    "Domenica": [
+      "17:00"
+    ]
+  },
+  "HOPE [2026]": {
+    "Giovedì": [
+      "20:40"
+    ],
+    "Venerdì": [
+      "21:15"
+    ],
+    "Sabato": [
+      "21:15"
+    ],
+    "Domenica": [
+      "19:30"
+    ],
+    "Lunedì": [
+      "20:40"
+    ],
+    "Martedì": [
+      "20:40"
+    ],
+    "Mercoledì": [
+      "20:40"
+    ]
+  },
+  "IL GATTO COL CAPPELLO [2026]": {
+    "Giovedì": [
+      "18:15"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "14:30"
+    ],
+    "Domenica": [
+      "14:50"
+    ],
+    "Lunedì": [
+      "18:15"
+    ],
+    "Martedì": [
+      "18:15"
+    ],
+    "Mercoledì": [
+      "18:15"
+    ]
+  },
+  "SE DOMANI NON TORNO": {
+    "Giovedì": [
+      "18:15"
+    ],
+    "Venerdì": [
+      "17:15"
+    ],
+    "Sabato": [
+      "14:40"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:15"
+    ],
+    "Martedì": [
+      "18:15"
+    ],
+    "Mercoledì": [
+      "18:15"
+    ]
+  },
+  "WILD HORSE NINE": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "17:20"
+    ],
+    "Sabato": [
+      "14:40"
+    ],
+    "Domenica": [
+      "15:00"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "18:30"
+    ],
+    "Mercoledì": [
+      "18:30"
+    ]
+  },
+  "WILD HORSE NINE | FILM IN INGLESE": {
+    "Lunedì": [
+      "21:00"
+    ]
+  },
   "DIO RIDE": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "16:55"
+    ],
+    "Sabato": [
+      "14:25"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
     "Mercoledì": [
       "18:20"
     ]
   },
-  "FAST&FURIOUS - 25esimo ANNIVERSARIO": {
-    "Mercoledì": [
-      "21:15"
-    ]
-  },
-  "ICE CREAM MAN - V.M.18": {
-    "Mercoledì": [
-      "21:25"
-    ]
-  },
   "UN TRANQUILLO FUNERALE DI FAMIGLIA": {
+    "Giovedì": [
+      "18:25"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "14:45"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:25"
+    ],
+    "Martedì": [
+      "18:25"
+    ],
     "Mercoledì": [
       "18:25"
     ]
   },
-  "IT ENDS": {
-    "Mercoledì": [
-      "21:15"
-    ]
-  },
   "SHAUN, VITA DA PECORA: OPERAZIONE Z.U.C.C.A.": {
+    "Giovedì": [
+      "18:30"
+    ],
+    "Venerdì": [
+      "17:30"
+    ],
+    "Sabato": [
+      "14:50"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "18:30"
+    ],
     "Mercoledì": [
       "18:30"
     ]
   },
   "CLAYFACE - V.M.14": {
+    "Giovedì": [
+      "21:00"
+    ],
+    "Venerdì": [
+      "22:15"
+    ],
+    "Sabato": [
+      "19:40"
+    ],
+    "Domenica": [
+      "20:15"
+    ],
+    "Lunedì": [
+      "21:00"
+    ],
+    "Martedì": [
+      "21:00"
+    ],
     "Mercoledì": [
-      "18:15"
-    ]
-  },
-  "TADDEO L'ESPLORATORE E LA LAMPADA MAGICA": {
-    "Mercoledì": [
-      "18:30"
-    ]
-  },
-  "WILDWOOD: I SEGRETI DEL BOSCO PROIBITO": {
-    "Mercoledì": [
-      "18:20"
-    ]
-  },
-  "L'ESTRANEA": {
-    "Mercoledì": [
-      "18:20"
+      "21:00"
     ]
   }
 }
