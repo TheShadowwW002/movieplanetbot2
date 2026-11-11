@@ -1,42 +1,227 @@
 {
-  "HOPE [2026]": {
+  "2001: ODISSEA NELLO SPAZIO | 4K": {
+    "Lunedì": [
+      "21:00"
+    ],
+    "Martedì": [
+      "21:00"
+    ]
+  },
+  "IN UN BATTITO": {
     "Mercoledì": [
-      "20:40"
+      "21:15"
+    ]
+  },
+  "COME RAPINARE UNA BANCA [2026]": {
+    "Giovedì": [
+      "21:00"
+    ],
+    "Venerdì": [
+      "22:10"
+    ],
+    "Sabato": [
+      "14:30"
+    ],
+    "Domenica": [
+      "20:15"
+    ],
+    "Lunedì": [
+      "18:35"
+    ],
+    "Martedì": [
+      "18:35"
+    ],
+    "Mercoledì": [
+      "18:35"
+    ]
+  },
+  "GODZILLA MINUS ZERO": {
+    "Giovedì": [
+      "21:00"
+    ],
+    "Venerdì": [
+      "21:30"
+    ],
+    "Sabato": [
+      "16:30"
+    ],
+    "Domenica": [
+      "14:20"
+    ],
+    "Lunedì": [
+      "21:00"
+    ],
+    "Martedì": [
+      "21:00"
+    ],
+    "Mercoledì": [
+      "21:00"
+    ]
+  },
+  "IL RUMORE DELLE COSE NUOVE": {
+    "Giovedì": [
+      "18:30"
+    ],
+    "Venerdì": [
+      "17:10"
+    ],
+    "Sabato": [
+      "14:40"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "18:30"
+    ],
+    "Martedì": [
+      "18:30"
+    ],
+    "Mercoledì": [
+      "18:30"
+    ]
+  },
+  "SCROOGE E GLI SPIRITI DEL NATALE": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "14:30"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "21:20"
+    ],
+    "Martedì": [
+      "21:20"
+    ],
+    "Mercoledì": [
+      "21:20"
+    ]
+  },
+  "SCROOGE E GLI SPIRITI DEL NATALE | FILM IN INGLESE": {
+    "Lunedì": [
+      "21:00"
+    ]
+  },
+  "UN WEEKEND ARTIFICIALE": {
+    "Giovedì": [
+      "18:20"
+    ],
+    "Venerdì": [
+      "17:20"
+    ],
+    "Sabato": [
+      "14:50"
+    ],
+    "Domenica": [
+      "15:10"
+    ],
+    "Lunedì": [
+      "18:20"
+    ],
+    "Martedì": [
+      "18:20"
+    ],
+    "Mercoledì": [
+      "18:20"
     ]
   },
   "IL GATTO COL CAPPELLO [2026]": {
+    "Giovedì": [
+      "18:15"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "14:45"
+    ],
+    "Domenica": [
+      "14:40"
+    ],
+    "Lunedì": [
+      "18:15"
+    ],
+    "Martedì": [
+      "18:15"
+    ],
     "Mercoledì": [
       "18:15"
     ]
   },
   "SE DOMANI NON TORNO": {
+    "Giovedì": [
+      "18:15"
+    ],
+    "Venerdì": [
+      "17:15"
+    ],
+    "Sabato": [
+      "14:40"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:15"
+    ],
+    "Martedì": [
+      "18:15"
+    ],
     "Mercoledì": [
       "18:15"
     ]
   },
   "WILD HORSE NINE": {
+    "Giovedì": [
+      "21:00"
+    ],
+    "Venerdì": [
+      "19:30"
+    ],
+    "Sabato": [
+      "19:30"
+    ],
+    "Domenica": [
+      "17:15"
+    ],
+    "Lunedì": [
+      "21:15"
+    ],
+    "Martedì": [
+      "21:15"
+    ],
     "Mercoledì": [
-      "18:30"
-    ]
-  },
-  "DIO RIDE": {
-    "Mercoledì": [
-      "18:20"
+      "21:15"
     ]
   },
   "UN TRANQUILLO FUNERALE DI FAMIGLIA": {
+    "Giovedì": [
+      "18:40"
+    ],
+    "Venerdì": [
+      "17:00"
+    ],
+    "Sabato": [
+      "17:10"
+    ],
+    "Domenica": [
+      "14:45"
+    ],
+    "Lunedì": [
+      "18:40"
+    ],
+    "Martedì": [
+      "18:40"
+    ],
     "Mercoledì": [
-      "18:25"
-    ]
-  },
-  "SHAUN, VITA DA PECORA: OPERAZIONE Z.U.C.C.A.": {
-    "Mercoledì": [
-      "18:30"
-    ]
-  },
-  "CLAYFACE - V.M.14": {
-    "Mercoledì": [
-      "21:00"
+      "18:40"
     ]
   }
 }
